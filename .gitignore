@@ -1,0 +1,40 @@
+.DS_Store
+
+# dependencies
+node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# runtime/cache/logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env
+.env.*
+!.env.example
+
+# local/generated backups
+backup/
+
+# local editable content media
+content/media/
+content/.uploads/
+content/backups/
+
+# keep YAML content under version control
+!content/*.yml
+
+# large generated/legacy media
+web/public/PIP/
+web/public/flowImg/
+web/public/videoThumb/
+web/public/audio/
+web/public/reStage/*.mp4
+web/*.mp3
+
+# local standalone artifacts
+web/.next/
+web/out/

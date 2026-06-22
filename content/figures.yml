@@ -1,0 +1,799 @@
+items:
+  - idx: 7
+    name: 고종익
+    nameEn: JongikKo
+    Occupation: 성악가
+    Year: 1915~1995
+    Desc: |-
+      일본 동경에서 유학
+      1935년 일제강점기 시절 조선일보사 주최 콩쿠르에서 테너 이인범과 공동 2위로 입상
+      한국의 첫 오페라 <춘희>의 “Douphol” 역 출연에 이어 <카르멘>에서 “Escamillo” 역으로 출연
+      6.25 한국전쟁 시 납북
+      1995년 평양에서 영면(향년 80세)
+    media:
+      portrait: /media/figures/JongikKo.jpg
+  - idx: 45
+    name: 고형주
+    nameEn: HyeongjuKo
+    Occupation: 성악가
+    Year: 1933~2015
+    Desc: |-
+      고려대학교 법학대학 졸업 후 성악가로 활동
+      농업협동조합(농협은행) 직원 및 지점장 역임
+      1959년 서울오페라단(고문: 현제명)의 <라 보엠> 한국 초연에서 “Colline” 역으로 데뷔
+      1960년 푸리마오페라단의 <세빌리아 이발사> 한국 초연에서 “Figaro” 역 출연
+      1960년 고려오페라단 창단 공연 <일 트로바토오레> 한국 초연에서 “Ferrando” 역 출연 이후 <콩쥐팥쥐> 공연에서 “왕” 역으로 출연
+      한국 최초의 오페라 <춘희> 공연에서 Germont 역으로 출연한 바리톤 고종익의 아들
+      2015년 영면(향년 82세)
+    media:
+      portrait: /media/figures/HyeongjuKo.jpg
+  - idx: 28
+    name: 김금환
+    nameEn: GeumhwanKim
+    Occupation: 성악가
+    Year: 1925~2002
+    Desc: |-
+      1956년 국악사 양성소의 양악 강사 재임
+      1959년 푸리마오페라단 창단 공연 <카봘레리아 루스띠까나(카발레리아 루스티카나)> 한국 초연에서 “Turiddu” 역 데뷔
+      1960년 고려오페라단(단장: 서영모) 창단공연 <일 트로바토오레> 한국 초연에서 “Manrico” 역으로 출연
+      1962년 국립오페라단(단장: 이인범) 창단공연 <왕자 호동> 한국 초연에서 “최리 왕” 역으로 출연 이후 국립오페라단 공연에서 활동
+      1984년 영남오페라단을 창단하고 창단공연 <토스카>에서 연출 및 “Cavaradossi” 역 출연하며 영남오페라 공연에서 활동
+      영남대학교 음악대학 교수 역임
+      2002년 영면(향년 77세)
+    media:
+      portrait: /media/figures/GeumhwanKim.jpg
+  - idx: 40
+    name: 김노현
+    nameEn: NohyeonKim
+    Occupation: 성악가/치과의사
+    Year: 1920~
+    Desc: |-
+      서울대학교 치과 대학 졸업 후 성악에 심취하여 치과의사 겸 성악가로 활동
+      1948년 한국 최초의 오페라 <춘희> 공연에서 의사 “Grenvil” 역으로 출연
+      1960년 고려오페라단 창단 공연 <일 트로바토오레> 한국 초연에서 “Luna 백작” 역으로 주역 데뷔
+      1961년 푸리마오페라단 <마르타> 한국 초연 출연
+      1975년 경희대학교 음악대학 작곡과 졸업
+      가곡 ‘ 황혼의 노래’ 등 작곡
+    media:
+      portrait: /media/figures/NohyeonKim.jpg
+  - idx: 13
+    name: 김대현
+    nameEn: DaehyeonKim
+    Occupation: 작곡가
+    Year: 1917~1985
+    Desc: |-
+      동요 “자전거”를 중학교 시절에 작곡하면서 자연스럽게 작곡가로 성장
+      일본 동경 제국 고등음악학교로 유학
+      귀국 후 부친의 독립운동 참여로 중국 신경(현 장춘)에서 활동
+      6.25 한국전쟁 시 부산 해군 정훈 음악대원으로 활동하면서 창작오페라 <콩지팟지(콩쥐팥쥐)>, <사랑의 신곡> 등을 발표
+      1954년 이후 영화음악 작곡가로 활동하면서 한국 영화음악 발전에 크게 기여함
+      서라벌예대 음악 주임 재직 시 중앙대학교로 편입되어 중앙대학교 예술대학 음악 과장 역임
+      1985년 영면(향년 68세)
+    media:
+      portrait: /media/figures/DaehyeonKim.jpg
+  - idx: 6
+    name: 김복희
+    nameEn: BokhuiKim
+    Occupation: 성악가
+    Year: 1928~
+    Desc: |-
+      1949년 이화여자대학교 음악대학 졸업
+      1950년 오페라 <카르멘> 한국 초연에서 “Carmen” 역으로 데뷔
+      미국 뉴욕에서 유학
+      1962년 국립오페라단 창단 공연 <왕자 호동>(장일남 작곡)에서 낙랑공주 역으로 출연
+      <돈 죠반니>(Elvira 역), <루치아>(Lucia 역), <투란도트>(Turandot 역), <사랑의 묘약>(Adina 역) 등 다양한 역할로 활동
+      문인 김기진 선생의 외동딸로서 현재 미국 거주
+    media:
+      portrait: /media/figures/BokhuiKim.jpg
+  - idx: 23
+    name: 김생려
+    nameEn: SaengryeoKim
+    Occupation: 지휘자
+    Year: 1912~1995
+    Desc: |-
+      연희전문학교(현 연세대학교) 문과생으로 입학하고 바이올린 연주자로 학교 밴드부장을 맡아 활동
+      재학 중 일본으로 유학하고 다시 연희전문학교로 복귀하여 졸업
+      경성방송국 관현악단 악장으로 음악활동
+      6.25 한국 전쟁 시 “해군 정훈음악대” 창단을 주도하고 상임 지휘자로 활동
+      1955년 해군 정훈음악대 소속 연주자들이 모여 “한국교향악협회”라는 이름으로 오페라 <카르멘>(1955)을 공연한 이후, 한국오페라단(대표: 황병덕) 창단공연 <토스카> 한국 초연을 지휘
+      1957년 서울시립교향악단을 창단하고 상임 지휘자로 활동(1961년 퇴임)
+      – 1963년 최초의 뮤지컬 단체 “예그린 악단”의 단장
+      1964년 “아리랑 민속 예술단”을 창단하고 미국과 유럽 순회연주
+      1995년 영면(향년 83세)
+    media:
+      portrait: /media/figures/SaengryeoKim.jpg
+  - idx: 42
+    name: 김옥자
+    nameEn: OkjaKim
+    Occupation: 성악가
+    Year: 1929~2019
+    Desc: |-
+      서울대학교 음악대학 졸업
+      1958년 푸리마오페라단 창단공연 <카봘레리아 루스띠까나(카발레리아 루스티카나)> 초연에서 “Santuzza” 역 데뷔한 이후 1960년 <세빌리아의 이발사>(한국초연)에서 “Rosina” 역, 1961년 <마르타>(한국초연)에서 “Martha” 역 출연
+      1962년 국립오페라단 창단 단원으로 1962년 <돈 죠반니> 초연에서 “Zerlina” 역 출연
+      경희대학교 음악대학 교수 역임
+      2019년 영면(향년 90세)
+    media:
+      portrait: /media/figures/OkjaKim.jpg
+  - idx: 3
+    name: 김자경
+    nameEn: JakyungKim
+    Occupation: 성악가
+    Year: 1917~1999
+    Desc: |-
+      이화여전(현 이화여자대학교) 음악과 졸업
+      한국의 첫 오페라 <춘희> 공연에서 “Violetta” 역으로 데뷔
+      <춘희> 한국 초연 이후 미국 뉴욕(줄리아드 음악학교)으로 유학
+      1958년 귀국 후 이화여자대학교 교수로 봉직
+      1968년 김자경오페라단 창단하고 한국 오페라의 대중화와 발전에 헌신
+      1999년 영면(향년 82세)
+    media:
+      portrait: /media/figures/JakyungKim.jpg
+  - idx: 31
+    name: 김학근
+    nameEn: HakgeunKim
+    Occupation: 성악가
+    Year: 1918~1985
+    Desc: |-
+      일본 동경에서 유학
+      1958년 한국오페라단 창단 공연 <토스카> 한국 초연에서 “Scarpia” 역으로 주역 데뷔 이후 한국오페라단의 공연 <팔리앗찌(팔리아치)>(한국 초연) “Tonio” 역, <카르멘>에서 “Escamillo” 역, <오세로(오텔로)>(한국 초연)에서 “Iago” 역으로 활동
+      1962년 국립오페라단 창단 단원으로 국립오페라단의 <돈 죠반니>(한국 초연)에서 “Don Giovanni” 역으로 출연 이후 미국으로 유학하고 미국에서 거주
+      경희대학교 음악대학 교수 역임
+      1985년 영면(향년 67세)
+    media:
+      portrait: /media/figures/HakgeunKim.jpg
+  - idx: 32
+    name: 김학상
+    nameEn: HaksangKim
+    Occupation: 성악가
+    Year: ''
+    Desc: |-
+      광복 전후 경성후생 실내악단과 고려교향악협회 회원으로 활동한 성악가(테너)
+      1950년 현제명 작곡 <춘향전> 초연에서 “방자” 역 출연
+      1954년 현제명 작곡 <왕자 호동> 한국 초연 공연에 출연
+      1957년 서울오페라단(고문: 현제명) 창단 공연 <춘희>에 단역으로 출연 이후 1958년 <춘향전>, <라 보엠> 한국 초연 공연에서 연출
+      서울대학교 음악대학 교수 역임
+    media:
+      portrait: /media/figures/HaksangKim.jpg
+  - idx: 5
+    name: 김혜란
+    nameEn: HyeranKim
+    Occupation: 성악가
+    Year: 1920~2005
+    Desc: |-
+      일본 무사시노 음대에서 유학
+      오페라 <카르멘> 한국 초연에서 “Carmen” 역으로 데뷔
+      현제명 작곡 <춘향전> 초연에서 “월매” 역으로 출연
+      오스트리아 비엔나에서 유학
+      숙명여자대학교 교수 역임
+      2005년 영면(향년 85세)
+    media:
+      portrait: /media/figures/HyeranKim.jpg
+  - idx: 38
+    name: 김희조
+    nameEn: HuijoKim
+    Occupation: 지휘자/작곡가
+    Year: 1920~2001
+    Desc: |-
+      피아노, 바이올린, 비올라 등의 악기를 배우면서 작곡과 국악을 독학으로 연구 및 활동
+      1948년 이후 10년간 육군 본부 국악대장 역임
+      서울시립교향악단 부 지휘자 역임
+      1958년 KBS 관현악단 지휘자 역임
+      1960년 고려오페라단(단장: 서영모) 창단공연 <일 트로바토오레> 한국초연 지휘
+      1961년 푸리마오페라단(단장: 한경진) <마르타> 공연 지휘
+      1965년 고려오페라단 <춘향전> 공연 지휘
+      86 아시안게임 음악 총감독
+      88 올림픽 개폐회식 마스게임 음악 작곡
+      경희대학교 음악대학 교수 역임(1957~1962)
+      서울예술대학 국악과 교수 역임
+      서울대학교 음악대학 김덕기 명예교수(지휘) 부친
+      2001년 영면(향년 81세)
+    media:
+      portrait: /media/figures/HuijoKim.jpg
+  - idx: 47
+    name: 박용구
+    nameEn: YongguPark
+    Occupation: 연출가
+    Year: 1914~2016
+    Desc: |-
+      일본 대학 예술학과와 니혼 고등음악학교에서 유학
+      1960년대에서 1970년대에 음악·무용 평론가로 활동
+      1966년 “교양의 음악” 전 5권 집필 및 출판 이후 많은 저서 집필
+      1967년 최초의 뮤지컬 단체 “예그린 악단” 단장 역임
+      한국 음악 팬클럽 대표 및 한국 예술 평론가 협의회 회장 역임
+      1960년 한국오페라단의 <오텔로> 초연 공연 연출
+      2016년 영면(향년 102세)
+    media:
+      portrait: /media/figures/YongguPark.jpg
+  - idx: 44
+    name: 변성엽
+    nameEn: SeongyeopByeon
+    Occupation: 성악가
+    Year: 1929~2018
+    Desc: |-
+      연희대학교 영문과 졸업 후 일본 유학 성악 전공
+      1959년 푸리마오페라단 창단 공연 <카봘레리아 루스띠까나(카발레리아 루스티카나)> 한국 초연에서 “Alfio” 역으로 데뷔한 이후 1960년 <세빌리아의 이발사> 한국 초연에서 “Figaro” 역 출연
+      1962년 국립오페라단 창단 단원으로 창단공연 <왕자 호동> 한국 초연에서 “장초 장군” 역 출연 이후 1964년 <루치아> 한국 초연에서 “Enrico” 역 출연
+      1968년 김자경오페라단 창단공연 <춘희> 공연에서 “Germont” 역 출연
+      1968년 푸리마오페라단 <사랑의 묘약> 한국 초연에서 “Belcore” 역으로 출연
+      숭의여자전문대학 교수 역임
+      2018년 영면(향년 89세)
+    media:
+      portrait: /media/figures/SeongyeopByeon.jpg
+  - idx: 37
+    name: 서영모
+    nameEn: YeongmoSeo
+    Occupation: 성악가
+    Year: 1919~1999
+    Desc: |-
+      1941년 일본 동경에서 유학
+      1962년 숙명여자대학교 음악대학 교수 
+      1958년 한국오페라단 창단 공연 <토스카> 한국 초연에서 “Scarpia” 역으로 데뷔
+      1960년 고려오페라단을 창단하고 창단 공연 <돈 죠반니>(Masetto 역), <루치아>(Raimondo 역), <가면무도회>(Silvano 역) 등 출연
+      1999년 영면(향년 80세)
+    media:
+      portrait: /media/figures/YeongmoSeo.jpg
+  - idx: 43
+    name: 신인철
+    nameEn: IncheolShin
+    Occupation: 성악가
+    Year: 1936~
+    Desc: |-
+      서울대학교 음악대학 졸업
+      1960년 푸리마오페라단 공연 <세빌리아의 이발사> 한국 초연에서 “Almaviva 백작” 역으로 데뷔
+      이탈리아 로마로 유학
+      귀국 후 국립오페라단 단원으로 1968년 <파우스트> 출연 이후 국립오페라단 공연에서 활동
+      단국대학교 음악대학 교수 역임
+    media:
+      portrait: /media/figures/IncheolShin.jpg
+  - idx: 21
+    name: 안형일
+    nameEn: HyeongilAn
+    Occupation: 성악가
+    Year: 1926~
+    Desc: |-
+      서울대학교 음악대학 졸업
+      1958년 서울오페라단(고문: 현제명) <리고렡(리골렛토)> 공연에서 “Duca” 역으로 데뷔
+      1962년 국립오페라단 창단 단원으로 창단 공연인 <왕자 호동>에서 “호동” 역으로 출연한 이후 국립오페라단 공연에서 활동
+      높은 C음을 가장 잘 구사하는 테너로 활동하면서 사립오페라단의 <라 보엠>공연의 “Rodolfo” 역으로 다수 출연
+      1983년 국립오페라단 제4대 단장 취임
+      1992년 국립오페라단의 <라 보엠>(Rodolfo 역) 출연 이후 오페라 무대에서 은퇴
+      한양대학교 음악대학 교수(1960~1966) 역임
+      서울대학교 음악대학 교수(1966~1992) 역임
+      현재 서울 거주
+    media:
+      portrait: /media/figures/HyeongilAn.jpg
+  - idx: 19
+    name: 양천종
+    nameEn: CheonjongYang
+    Occupation: 성악가
+    Year: 1927~
+    Desc: |-
+      서울대학교 음악대학 졸업
+      1957년 서울오페라단 <춘희> 공연에서 “Germont” 역으로 데뷔한 이후 서울오페라단 공연에서 활동
+      1962년 국립오페라단 창단 단원으로 국립오페라단 공연에서 바리톤 주연으로 활동
+      1966년 미국으로 유학 중 갑상선 수술 실패로 목소리를 회복하지 못하면서 미국에 영주함
+      현재 미국 거주
+    media:
+      portrait: /media/figures/CheonjongYang.jpg
+  - idx: 30
+    name: 엄경원
+    nameEn: GyeongwonEom
+    Occupation: 성악가
+    Year: 1931~
+    Desc: |-
+      1955년 숙명여자대학 음악대학 졸업
+      1955년 한국교향악협회 <카르멘> 공연에서 “Micaella” 역으로 데뷔
+      1957년 서울오페라단 창단 공연 <춘희>에서 “Violetta” 역으로 출연
+      1958년 한국오페라단 창단 공연 <토스카>에서 “Tosca” 역으로 출연
+      1959년 한국오페라단 <팔리앗찌(팔리아치)> 한국 초연에서 “Nedda” 역으로 출연
+      1960년 이탈리아 유학 시절 베냐미노 질리 콩쿠르 1등 입상
+      1973년 장충동 국립극장 개관 국립오페라단 <아이다> 공연에서 “Aida” 역으로 출연 이후 이탈리아에 거주
+    media:
+      portrait: /media/figures/GyeongwonEom.jpg
+  - idx: 18
+    name: 오현명
+    nameEn: HyeonmyeongOh
+    Occupation: 성악가/연출가
+    Year: 1924~2009
+    Desc: |-
+      서울대학교 음악대학 졸업(제1회 졸업)
+      한국의 첫 오페라 <춘희>에서 합창 단원으로 출연 이후 오페라 <카르멘>, <파우스트>, <콩쥐팥쥐> 공연에서 단역으로 출연
+      1955년 한국교향악협회(대표: 김생려) 주최 <카르멘> 공연에서 “Escamillo” 역으로 주역 데뷔 이후 1957년에 창단된 서울오페라단(고문: 현제명) 공연에서 바리톤 주연으로 활동
+      1962년 국립오페라단 창단 단원으로 국립오페라단 공연에서 활동
+      1964년 국립오페라단 제3대 단장 취임 (18년 재임)
+      1966년 <리골렛토> 공연 연출을 맡은 이후, 성악가, 연출가로 활동하면서 한국 오페라 발전에 크게 기여함
+      한양대학교 교수 및 학장 역임
+      2009년 영면(향년 85세)
+    media:
+      portrait: /media/figures/HyeonmyeongOh.jpg
+  - idx: 24
+    name: 오화섭
+    nameEn: HwaseopOh
+    Occupation: 연출가/영문학자
+    Year: 1916~1979
+    Desc: |-
+      일본 와세다 대학교 영문과에서 유학
+      1965년 연세대학교 교수, 학장 역임
+      전문 희곡번역가로 활동
+      테너 이인범, 바리톤 황병덕, 의사 김기령 등과 함께 한국오페라단 창단에 참여
+      한국오페라단 창단공연 <토스카> 한국 초연에서 연출
+      1979년 영면(향년 63세)
+    media:
+      portrait: /media/figures/HwaseopOh.jpg
+  - idx: 4
+    name: 옥인찬
+    nameEn: InchanOck
+    Occupation: 성악가
+    Year: 1917~1994
+    Desc: |-
+      중국 상하이에서 출생 – 상하이에서 성악 공부
+      1946년 귀국 후 성악 연주자로 활동
+      1948년 한국의 첫 오페라 <춘희>에서 “Germont 역”으로 데뷔
+      1952년 프랑스로 유학하여 국제법을 공부하고 이후 베트남, 태국 등지에서 사업가로 활동
+      1963년 한국 정부로부터 독립 운동 공적을 인정받아 대통령 표창 수상
+      1980년대 이후 미국 로스앤젤레스로 이주
+      1994년 영면(향년 77세)
+    media:
+      portrait: /media/figures/InchanOck.jpg
+  - idx: 9
+    name: 유치진
+    nameEn: ChijinYu
+    Occupation: 연출가/희곡작가
+    Year: 1905~1974
+    Desc: |-
+      일제강점기 시절부터 한국 연극계의 선두에서 활동한 연극계 원로
+      한국 오페라 공연 태동기에 오페라 <춘향전> 연출.
+      1950년 초대 국립극장장 역임
+      1960년 드라마센터(현 서울예술대학 전신)를 창립하고 이사장 역임
+      1974년 영면(향년 69세)
+    media:
+      portrait: /media/figures/ChijinYu.jpg
+  - idx: 41
+    name: 윤을병
+    nameEn: EulbyeongYun
+    Occupation: 성악가
+    Year: ''
+    Desc: |-
+      1960년 고려오페라단 창단공연 <일 트로바토오레> 한국 초연에서 “Azucena” 역으로 데뷔
+      1962년 국립오페라단 창단 단원으로 창단 공연 <왕자 호동>에서 “반달” 역 출연
+    media:
+      portrait: /media/figures/EulbyeongYun.jpg
+  - idx: 33
+    name: 이경숙
+    nameEn: GyeongsukLee
+    Occupation: 성악가
+    Year: 1931~
+    Desc: |-
+      1955년 서울대학교 음악대학 졸업
+      재학 중 현제명 작곡 <왕자 호동> 초연에서 “공주” 역으로 데뷔
+      미국에서 유학 중 오페라 <나비부인> 출연 및 활동
+      1958년 서울오페라단(고문: 현제명)의 <춘향전>에서 “춘향” 역, 1959년 공연된 <라 보엠> 한국 초연에서 “Mimi” 역으로 출연
+      1962년 국립오페라단 창단 단원 이후 국립오페라단의 공연 <투란도트> 한국 초연에서 “Liu” 역, <오세로(오텔로)> 공연에서 “Desdemona” 역, <카르멘> 공연에서 “Micaella” 역 등으로 활약
+      1977년 김자경오페라단의 <수녀 안젤리카> 한국 초연에서 “Angelica” 역으로 출연한 이후 오페라 무대에서 은퇴
+      서울대학교 음악대학 교수 역임
+      2024년 현재 서울 근교 거주
+    media:
+      portrait: /media/figures/GyeongsukLee.jpg
+  - idx: 11
+    name: 이관옥
+    nameEn: GwanokLee
+    Occupation: 성악가
+    Year: 1918~1976
+    Desc: |-
+      일본 동경 무사시노 음대에서 유학
+      1940년대와 1950년대 초까지 주로 독창회와 남편(한규동(테너) 숙명여대 교수 재직)과의 부부 연주회로 활동
+      1950년 <춘향전> 초연에서 “춘향” 역으로 첫 오페라 데뷔
+      서울대학교 음악대학 교수로 재직
+      1976년 영면(향년 58세)
+    media:
+      portrait: /media/figures/GwanokLee.jpg
+  - idx: 50
+    name: 이남수
+    nameEn: NamsuLee
+    Occupation: 지휘자
+    Year: 1930~2009
+    Desc: |-
+      서울대학교 음악대학 졸업 후 미국 뉴욕으로 유학
+      1962년 국립오페라단 창단 공연 <왕자 호동> 지휘 이후 <카발레리아 루스티카나>, 1971년 <팔리아치>, 1972년 <투란도트>, 1978년 <리골렛토>, 1981년 <루치아> 등 지휘
+      서울오페라단(김봉임 단장)의 1986년 <돈 파스콸레> 한국 초연 공연 지휘
+      서울대학교 음악대학 교수 및 학장 역임
+      지휘자 박은성, 임헌정 등의 지도교수
+      2009년 영면(향년 79세)
+    media:
+      portrait: /media/figures/NamsuLee.jpg
+  - idx: 17
+    name: 이상춘
+    nameEn: SangchunLee
+    Occupation: 성악가
+    Year: 1910~1991
+    Desc: |-
+      일본 동경에서 유학
+      우리 민요풍의 노래를 서양창법에 기초한 독특한 창법으로 연주한 성악가(테너)로 알려짐
+      오페라 <춘향전> 초연에서 “이도령” 역으로 데뷔 이후 오페라 <팔리앗찌(팔리아치)> 한국 초연에서 “Turiddu” 역으로 출연
+      서울대학교 음악대학 교수 및 단국대 교수 역임
+      1991년 영면(향년 81세)
+    media:
+      portrait: /media/figures/SangchunLee.jpg
+  - idx: 35
+    name: 이우근
+    nameEn: UkeunLee
+    Occupation: 성악가
+    Year: 1929~
+    Desc: |-
+      서울대학교 음악대학 졸업
+      1957년 서울오페라단의 창단공연 <춘희>에서 “Alfredo” 역으로 데뷔한 이후, 서울오페라단 공연 <춘향전>에서 “이도령” 역, <라 보엠> 한국 초연에서 “Rodolfo” 역, 1960년 한국오페라단의 <오세로(오텔로)> 한국 초연에서 “Otello” 역으로 활동
+      서울예술고등학교 음악과장 역임
+      1962년 국립오페라단 창단 단원으로 <돈 죠반니> 한국 초연에서 “Don Ottavio” 역, 1963년 <가면무도회> 한국 초연에서 “Ricardo” 역, 1964년 <루치아> 한국 초연에서 “Edgardo” 역으로 출연
+      1964년 미국 유학 후 미국 거주
+    media:
+      portrait: /media/figures/UkeunLee.jpg
+  - idx: 10
+    name: 이인범
+    nameEn: InbeomLee
+    Occupation: 성악가
+    Year: 1914~1978
+    Desc: |-
+      연희전문학교(현 연세대학교) 음악부에서 활동하면서 현제명 사사
+      재학 시절 조선일보사 주최 콩쿠르에서 바리톤 고종익과 공동 2위 입상으로 음악계의 주목을 받음
+      1937년 대학 졸업 후 일본 동경으로 유학
+      1939년 전 일본 음악 콩쿠르에서 1위로 입상
+      1941년 귀국 후 가장 인기있는 테너 중 하나로 활동
+      1950년 <춘향전> 초연 공연에서 “이도령” 역으로 오페라 공연 데뷔
+      황병덕(바리톤), 오화섭(연극인), 김기령(의사) 등과 함께 한국오페라단을 창단하고 오페라 <토스카> (Cavaradossi 역), <카봘레리아 루스티카나(카발레리아 루스티카나)> (Turiddu 역), <오세로(오텔로)> (Otello 역) 등 한국 초연에 출연
+      연세대학교 음악대학 교수 및 학장 역임
+      1978년 영면(향년 64세)
+    media:
+      portrait: /media/figures/InbeomLee.jpg
+  - idx: 1
+    name: 이인선
+    nameEn: InsunLee
+    Occupation: 성악가
+    Year: 1906~1960
+    Desc: |-
+      세브란스 의전을 졸업한 의사로서 성악 활동 중 이탈리아로 유학
+      1948년 조선오페라협회(국제오페라사)를 창립하고 단장 역임
+      1948년 한국의 첫 오페라 공연 <춘희>를 직접 가사를 우리말로 번역해서 공연(Alfredo 역을 노래함)
+      한국 오페라 역사의 첫 장을 연 선구자
+      1952년 뉴욕 메트로폴리탄 오페라단 오디션 한국인 최초로 합격
+      1960년 미국에서 사망(향년 54세)
+    media:
+      portrait: /media/figures/InsunLee.jpg
+  - idx: 36
+    name: 이인영
+    nameEn: InyungLee
+    Occupation: 성악가
+    Year: 1929~2019
+    Desc: |-
+      1948년 일본 유학 후 일본 후지와라 오페라단 단원으로 활약
+      1959년 서울오페라단 <라 보엠> 한국 초연에서 “Colline” 역으로 데뷔
+      1962년 국립오페라단 창단 단원
+      국립오페라단의 대표적인 Bass로써 1970년대 말까지 국립오페라단의 공연에서 활동
+      1962년 국립오페라단의 <돈 죠반니> 공연에서 연출 및 기사장 역으로 출연
+      서울대학교 음악대학 교수 역임(1964~1994)
+      김자경오페라단, 서울오페라단, 대구 계명오페라단, 부산 나토얀오페라단 등에서 연출 및 출연
+      2019년 영면(향년 80세)
+    media:
+      portrait: /media/figures/InyungLee.jpg
+  - idx: 12
+    name: 이정희
+    nameEn: JeonghulLee
+    Occupation: 성악가
+    Year: 1927~1998
+    Desc: |-
+      서울대학교 음악대학 졸업
+      1950년 서울대학교 음악대학 교수 및 학생으로 공연된 <춘향전>(현제명 작곡) 초연에서 “월매” 역으로 데뷔
+      미국 뉴욕 줄리어드 음악학교에서 유학
+      1962년 국립오페라단 창단 단원으로 1963년 <가면무도회> 한국 초연에서 “Ulrica” 역 출연 이후, 1968년 <파우스트> “Martha” 역, 1968년 <춘향전>(장일남 작곡) 초연에서 “월매” 역으로 출연
+      서울대학교 음악대학 교수 역임
+      1998년 영면 (향년 71세)
+    media:
+      portrait: /media/figures/JeonghulLee.jpg
+  - idx: 14
+    name: 이진순
+    nameEn: JinsunLee
+    Occupation: 연출가
+    Year: 1916~1984
+    Desc: |-
+      일본대학 예술과에서 유학
+      광복 이후 극단 신지극사를 창단하고 연출가로 활동
+      1950년대에 오페라 연출에 참여하여 창작오페라 <콩지팟지(콩쥐팥쥐)>를 비롯해서 <토스카>, <라 보엠>, <사랑의 묘약> 등 연출
+      동국대학교 연극과 교수로 재직하면서 연극협회 이사장 역임
+      1984년 영면(향년 68세)
+    media:
+      portrait: /media/figures/JinsunLee.jpg
+  - idx: 16
+    name: 이해랑
+    nameEn: HyaerangLee
+    Occupation: 연출가
+    Year: 1916~1989
+    Desc: |-
+      일본 니혼 대학 예술학과에서 유학
+      연극과 영화배우로 활동한 연극인
+      초대 국립극장장을 역임하고 동국대학교 교수 및 국회의원(제9대) 역임
+      창작오페라 <왕자 호동>(1954)을 비롯하여 <카르멘>(1955),<일 트로바토오레>(1960) 등 연출
+      1989년 영면(향년 73세)
+    media:
+      portrait: /media/figures/HyaerangLee.jpg
+  - idx: 15
+    name: 임만섭
+    nameEn: ManseopLim
+    Occupation: 성악가
+    Year: 1917~
+    Desc: |-
+      일본 동경음악대학에서 유학
+      1946년 평양 음악대학 창립, 성악과 주임 교수
+      1951년 김대현 작곡 <콩지팟지(콩쥐팥쥐)> 공연에서 “왕자” 역으로 데뷔
+      1954년 서라벌 예대(현 중앙대학교) 음악과 교수
+      1962년 국립오페라단 창단 단원으로 창단 공연 <왕자 호동>에서 “최리 왕” 역으로 출연
+      1980년 이후 미국으로 이주
+    media:
+      portrait: /media/figures/ManseopLim.jpg
+  - idx: 2
+    name: 임원식
+    nameEn: WonsikLim
+    Occupation: 지휘자
+    Year: 1919~2002
+    Desc: |-
+      중국 하얼빈 제일음악학원을 졸업 후 일본 동경으로 유학
+      1946년 서울로 활동 영역을 옮기고 고려교향악단 상임 지휘자로 활동
+      한국의 첫 오페라 <춘희>를 지휘
+      1948년 미국 유학 중 1949년 일시 귀국 후 서울에 안착하고 활동
+      1953년 서울예술고등학교 설립을 주도하고 교감 및 교장 역임
+      1969년 국립교향악단 초대 지휘자 역임하고 한국 교향악단 발전에 헌신
+      2002년 영면(향년 83세)
+    media:
+      portrait: /media/figures/WonsikLim.jpg
+  - idx: 49
+    name: 장일남
+    nameEn: IlnamChang
+    Occupation: 작곡가
+    Year: 1932~2006
+    Desc: |-
+      작곡가 김순남에게 사사
+      1962년 국립오페라단 창단 공연 <왕자 호동>을 작곡한 이후 1966년 <춘향전>, 1971년 <원효대사>, 1988년 <불타는 탑> 등을 작곡
+      1985년 서울 아카데미 심포니 오케스트라 창단 상임 지휘자 역임
+      가곡 기다리는 마음, 비목, 나그네 등 작곡
+      한양대학교 음악대학 교수 역임
+      2006년 영면(향년 74세)
+    media:
+      portrait: /media/figures/IlnamChang.jpg
+  - idx: 48
+    name: 장종선
+    nameEn: JongseonChang
+    Occupation: 무대미술가
+    Year: 1918~1989
+    Desc: |-
+      일본 동경 국제 미술 학교에서 유학
+      1953년 이후 연극 무대 미술가로 활동
+      1958년 오페라 <토스카> 초연의 무대미술을 시작으로 국립오페라단, 김자경오페라단의 공연 무대미술가로 활동
+      1989년 영면(향년71세)
+    media:
+      portrait: /media/figures/JongseonChang.jpg
+  - idx: 34
+    name: 장혜경
+    nameEn: HyegyeongChang
+    Occupation: 성악가
+    Year: 1933~
+    Desc: |-
+      서울대학교 음악대학 졸업
+      1957년 서울오페라단의 창단공연 <춘희>에서 “Violetta” 역으로 데뷔한 이후 서울오페라단의 공연 <리고렡(리골렛토)> 한국 초연에서 “Gelda” 역, <춘향전>에서 “춘향” 역, <라 보엠> 한국 초연에서 “Mimi” 역으로 출연
+      1970년 국립오페라단의 <라 보엠> 공연에서 “Musetta” 역으로 출연
+      건국대학교 음악교육과 교수 역임
+    media:
+      portrait: /media/figures/HyegyeongChang.jpg
+  - idx: 25
+    name: 채리숙
+    nameEn: RisukChae
+    Occupation: 성악가
+    Year: 1933~
+    Desc: |-
+      이화여자대학교 음악대학 졸업
+      1958년 한국오페라단 창단공연 <토스카> 한국 초연에서 “Tosca” 역으로 데뷔
+      미국 뉴욕 줄리어드 음악학교로 유학
+      독일 바이로이트 바그너 축제 장학생으로 참석
+      독일 베를린 음대 졸업 및 활동
+      1974년 귀국 후 국내에서 활동
+      중앙대학교 음악대학 교수 및 학장 역임
+    media:
+      portrait: /media/figures/RisukChae.jpg
+  - idx: 29
+    name: 최현민(최운일)
+    nameEn: HyeonminChoi
+    Occupation: 연출가
+    Year: 1921~1998
+    Desc: |-
+      광복 전후에 연극무대에서 활동
+      1950년대에서 1970년대에 걸쳐 연극, 영화 연출 및 기획자로 활동
+      1959년 푸리마오페라단 창단공연 <카봘레리아 루스티카나(카발레리아 루스티카나)> 초연 연출 이후 <세빌리아의 이발사>(한국초연), <마르타>(한국초연) 공연에서 연출
+      1998년 영면(향년 77세)
+    media:
+      portrait: /media/figures/HyeonminChoi.jpg
+  - idx: 26
+    name: 한경진
+    nameEn: GyeongjinHan
+    Occupation: 성악가/약사
+    Year: ''
+    Desc: |-
+      서울대학교 약학대학 졸업
+      개인레슨으로 성악 공부(테너)
+      1959년 푸리마오페라단을 창단하고 오페라 <카봘레리아 루스띠까나(카발레리아 루스티카나)> 한국 초연
+      <세빌리아의 이발사> “Almaviva 백작” 역으로 데뷔한 이후 <마르타>, <사랑의 묘약> 등 한국 초연 공연에서 테너 주역으로 활동
+      세브란스 병원 약국장 역임
+    media:
+      portrait: /media/figures/GyeongjinHan.jpg
+  - idx: 8
+    name: 현제명
+    nameEn: RodyHyun
+    Occupation: 작곡가/성악가
+    Year: 1902~1960
+    Desc: |-
+      미국 시카고에서 유학
+      1928년 연희전문학교 음악주임교수로 부임 이후 음악교육자, 성악가, 작곡가로 활동
+      1930년대 다양한 음악 장르에서 활동
+      유학했던 미국 시카고 Gunn 음악학교에서 박사학위를 받고 귀국 후 경성음악학원 원장으로 취임
+      광복 후 경성음악학원은 서울대학교에 편입되고 서울대학교 음악대학 초대학장으로 취임
+      1950년 한국의 첫 창작오페라 <춘향전>을 작곡하고 지휘함으로써 창작오페라의 첫 장을 염
+      1960년 영면(향년 58세)
+    media:
+      portrait: /media/figures/RodyHyun.jpg
+  - idx: 27
+    name: 현종건
+    nameEn: JonggeonHyun
+    Occupation: 지휘자
+    Year: ''
+    Desc: |-
+      플루트 전공
+      1951년 공군 본부 소속으로 공군 교향악단 창단을 주도했으며 초대 상임 지휘자로 활약(당시 공군 소령)
+      1958년 서울오페라단(고문: 현제명)의 <춘향전>을 시작으로 푸리마오페라단(단장: 한경진)의 <카봘레리아 루스띠까나(카발레리아 루스티카나)>(한국초연), <세빌리아의 이발사>(한국초연)등의 공연에서 공군 교향악단의 협연으로 지휘
+      미국 유학 이후 뉴욕 지역을 중심으로 활동했으며 미국 거주
+    media:
+      portrait: /media/figures/JonggeonHyun.jpg
+  - idx: 39
+    name: 호진옥
+    nameEn: JinokHo
+    Occupation: 성악가
+    Year: ''
+    Desc: |-
+      한불문화협회 주최 <파우스트>(1949)와 한국교향악협회 주최 <카르멘>(1955) 공연에서 조연 역 출연
+      1959년 푸리마오페라단 창단공연 <카봘레리아 루스띠까나(카발레리아 루스티카나)> 공연에서 “Santuzza” 역으로 주역 데뷔 이후 <마르타> 한국 초연에서 “Martha” 역 출연
+      1960년 고려오페라단 창단 공연< 일 트로바토오레> 한국 초연에서 “Leonora” 역 출연
+      1962년 국립오페라단의 <돈 죠반니> 공연에서 “Donna Anna” 역 출연
+    media:
+      portrait: /media/figures/JinokHo.jpg
+  - idx: 46
+    name: 홍연택
+    nameEn: YeontaekHong
+    Occupation: 지휘자/작곡가
+    Year: 1927~2001
+    Desc: |-
+      서울대학교 음악대학 작곡과 졸업 후 지휘자로 활동
+      1960년 한국오페라단의 <오텔로> 한국 초연 지휘
+      1963년 오스트리아 비엔나로 유학 후 미국 뉴욕에서 유학
+      1970년 김자경오페라단의 <아이다> 공연 지휘
+      1972년 국립교향악단 상임 지휘자 취임
+      1973년 장충동 국립극장 준공 기념 국립오페라단 <아이다> 공연 이후 1980년대 후반까지 국립오페라단의 공연 지휘
+      1985년 코리안 심포니 오케스트라 창단 상임 지휘자 역임
+      한양대학교 음악대학 교수 및 학장 역임
+      오페라 <논개>, <시집가는 날>, <성춘향을 찾습니다> 등 작곡
+      2001년 영면(향년 74세)
+    media:
+      portrait: /media/figures/YeontaekHong.jpg
+  - idx: 20
+    name: 홍진표
+    nameEn: JinpyoHong
+    Occupation: 성악가
+    Year: 1924~1979
+    Desc: |-
+      서울대학교 음악대학 졸업
+      1955년 한국교향악협회(대표: 김생려) 주최 <카르멘> 공연에서 “Don Jose” 역으로 데뷔
+      1957년에 창단된 서울오페라단(고문: 현제명) 공연에서 주연 테너로 활약
+      1958년 한국오페라단 창단 공연 <토스카>(한국초연)에서 “Cavaradossi” 역을 테너 이인범과 출연
+      이탈리아 유학 후 1963년 국립오페라단 제2대 단장으로 취임하고 오페라 가면무도회, 루치아 등의 한국 초연 연출
+      경희대학교 음악대학 교수 역임
+      1979년 영면(향년 55세)
+    media:
+      portrait: /media/figures/JinpyoHong.jpg
+  - idx: 22
+    name: 황병덕
+    nameEn: ByeongdeokHwang
+    Occupation: 성악가
+    Year: 1920~2012
+    Desc: |-
+      일본 동경 음대에서 유학
+      일본 후지와라 오페라단 단원으로 활동
+      1948년 오페라 <춘희> 한국 초연에서 “Baron” 역으로 출연
+      테너 이인범, 연극연출가 오화섭, 의사 김기령 등과 함께 한국오페라단을 창단하고, 창단 공연인 <토스카> 한국 초연에서 “Scarpia” 역으로 주역 데뷔하며 한국오페라단 공연에서 바리톤 주역으로 활동
+      1962년 국립오페라단 창단 단원(총무)으로 국립오페라단 공연에서 활동
+      연세대학교 음악대학 교수 및 학장 역임
+      2012년 영면(향년 92세)
+    media:
+      portrait: /media/figures/ByeongdeokHwang.jpg
+  - idx: 51
+    name: 황영금
+    nameEn: YeonggeumHwang
+    Occupation: 성악가
+    Year: 1931~
+    Desc: |-
+      서울대학교 음악대학 재학(2학년) 시 일본으로 유학
+      일본 동경 예술대학에서 유학
+      일본 동경 니키카이 오페라단에서 활동
+      1959년 귀국 이후 연세대학교 음악대학 교수 재임
+      1962년 국립오페라단 창단공연 <왕자 호동> 초연에서 “낙랑공주” 역으로 한국 데뷔 이후, 1962년 국립오페라단 공연 <돈 죠반니> 한국 초연 (Donna Anna 역), <가면무도회> 한국 초연(Amelia 역), <토스카>(Tosca 역), 1966년 <아이다> 한국 초연(Aida 역) 등으로 대표적인 소프라노로 활동
+      1973년 독일 베를린 음대 유학
+      귀국 후 서울오페라단 창단 공연 1975년 <토스카> 공연에서 “Tosca” 역으로 출연 이후 국립오페라단의 <피가로의 결혼>에서 “백작 부인” 역으로 출연
+    media:
+      portrait: /media/figures/YeonggeumHwang.jpg
+  - idx: 54
+    name: |-
+      크리스텔 골츠
+      Christel Goltz
+    nameEn: ChristelGoltz
+    Occupation: 성악가
+    Year: 1912~2008
+    Desc: |-
+      독일 도르트문트에서 출생, 뮌헨에서 공부
+      1935년 “Agathe” 역으로 데뷔
+      1940~1950년대 “Fidelio”, “Isolde”, “Elektra” 역 등으로 세계 무대에서 활동한 드라마틱 소프라노
+    media:
+      portrait: /media/figures/ChristelGoltz.jpg
+  - idx: 55
+    name: |-
+      프리츠 울
+      Fritz Uhl
+    nameEn: FritzUhl
+    Occupation: 성악가
+    Year: 1928~2001
+    Desc: |-
+      오스트리아 비엔나 근교에서 출생, 비엔나에서 성악 공부
+      제2차 세계대전 종전(1945년) 이후 비엔나 음악원에서 공부
+       1952년 그라츠 국립오페라극장 데뷔
+      1958년 뮌헨 국립오페라극장에서 출연 및 활동
+      리릭 테너로 출발했지만 이후 리릭 스핀토에서 드라마틱 테너 역으로 유럽 무대에서 활약
+    media:
+      portrait: /media/figures/FritzUhl.jpg
+  - idx: 53
+    name: |-
+      게하르트 휘슈
+      Gerhard Hüsch
+    nameEn: GerhardHusch
+    Occupation: 성악가/연출가
+    Year: 1901~1984
+    Desc: |-
+      독일 하노버에서 출생
+      1923년 데뷔(Lortzing 작곡 Waffen Schmied)
+      1930~40년대 독일 최고의 리드 가수
+      모차르트의 “Papageno”, 바그너의 “Wolfram” 등의 가벼운 역할로 오페라 무대 출연
+      1937년 독일 “궁정 가수” 칭호를 받음
+    media:
+      portrait: /media/figures/GerhardHusch.jpg
+  - idx: 56
+    name: |-
+      요제프 메테르니히
+      Josef Metternich
+    nameEn: JosefMetternich
+    Occupation: 성악가
+    Year: 1915~2005
+    Desc: |-
+      독일 쾰른에서 출생
+      제2차 세계대전 중 성악 공부 – 드라마틱한 창법과 연기를 습득
+      1949년 독일 함부르크 국립오페라극장, 뮌헨 국립오페라극장과 계약을 맺고 활약
+      1950년 영국 코벤트가든 국립오페라극장 출연
+      1953년 미국 뉴욕 메트로폴리탄 오페라극장 출연 및 활동
+      독일 쾰른 음악대학 교수로 재직
+    media:
+      portrait: /media/figures/JosefMetternich.jpg
+  - idx: 52
+    name: |-
+      만프레드 구를리트
+      Manfred Gurlitt
+    nameEn: ManfredGurlitt
+    Occupation: 지휘자/작곡가
+    Year: 1890~1972
+    Desc: |-
+      독일 베를린에서 출생
+      독일의 작곡가, 지휘자
+      나치 정권의 박해로 일본으로 이주
+      일본에서 일본 국립음악대학 교수 및 지휘자로 활동
+    media:
+      portrait: /media/figures/ManfredGurlitt.jpg

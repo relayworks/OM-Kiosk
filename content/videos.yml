@@ -1,0 +1,41 @@
+title: 관람 후기 및 출연 소감
+sections:
+  - id: dawn
+    title: 한국 오페라의 여명
+    videos:
+      - id: '1'
+        name: 신갑순
+        thumbnail: /media/videoThumb/1.jpg
+        video: /media/video/1-1782121966113.mp4
+        enabled: true
+  - id: birth
+    title: 한국 오페라의 태동
+    videos:
+      - id: '2'
+        name: 이인숙
+        thumbnail: /media/videoThumb/2.jpg
+        video: /media/video/2-1782121972033.mp4
+        enabled: true
+      - id: '3'
+        name: 김용분
+        thumbnail: /media/videoThumb/3.jpg
+        video: /media/video/3-1782121975745.mp4
+        enabled: true
+      - id: '4'
+        name: 박성원
+        thumbnail: /media/videoThumb/4.jpg
+        video: /media/video/4-1782121978654.mp4
+        enabled: true
+  - id: leap
+    title: 한국 오페라의 도약
+    videos:
+      - id: '5'
+        name: 박수길
+        thumbnail: /media/videoThumb/5.jpg
+        video: /media/video/5-1782121983243.mp4
+        enabled: true
+      - id: '6'
+        name: 이건용
+        thumbnail: /media/videoThumb/6.jpg
+        video: /media/video/6-1782122074603.mp4
+        enabled: true
