@@ -16,6 +16,7 @@ export default function Controller() {
   const [selectedTarget, setSelectedTarget] = useState(null);
   const [collectData, setCollectData] = useState([]);
   const statusRef = useRef(status);
+  const selectedRef = useRef(selected);
 
   const socketRef = useRef(null);
   const [mounted, setMounted] = useState(false);
@@ -56,41 +57,47 @@ export default function Controller() {
 
       });
 
-     s.on("kiosk:status", (state) => {
-  if (!state) return;
+      s.on("kiosk:status", (state) => {
+        if (!state) return;
 
-  // 🔴 키오스크 오프라인
-  if (!state.ready) {
-    setControlsLocked(true);
-    setStatusText("키오스크 연결 대기중...");
-    return;
-  }
+        if (!state.ready) {
+          setControlsLocked(true);
+          setStatusText("키오스크 연결 대기중...");
+          return;
+        }
 
-  // 🟡 전환중
-  if (state.busy) {
-    setControlsLocked(true);
-    setStatusText("전환 중…");
-    return;
-  }
+        if (state.busy) {
+          setControlsLocked(true);
+          setStatusText("전환 중…");
+          return;
+        }
 
-  // 🟢 정상
-  setControlsLocked(false);
-  setStatusText(null);
-  setSelectedTarget(state.current ?? null);
+        setControlsLocked(false);
+        setStatusText(null);
+        setSelectedTarget(state.current ?? null);
 
-  if (state.current === "idle") {
-    setStatus("Idle");
-    setSelected("");
-  }
-  if (state.current === "restage_chunhee") {
-    setStatus("Restage");
-    setSelected("chunhee");
-  }
-  if (state.current === "restage_hodong") {
-    setStatus("Restage");
-    setSelected("hodong");
-  }
-});
+        if (state.current === "idle") {
+          const browsingRestageOptions =
+            statusRef.current === "Restage" && selectedRef.current === "";
+
+          if (!browsingRestageOptions) {
+            setStatus("Idle");
+            setSelected("");
+          }
+          return;
+        }
+
+        if (state.current === "restage_chunhee") {
+          setStatus("Restage");
+          setSelected("chunhee");
+          return;
+        }
+
+        if (state.current === "restage_hodong") {
+          setStatus("Restage");
+          setSelected("hodong");
+        }
+      });
 
       s.on("pageStatus", (payload) => {
         const { state, reason } = payload || {};
@@ -120,6 +127,10 @@ export default function Controller() {
   useEffect(() => {
     statusRef.current = status;
   }, [status]);
+
+  useEffect(() => {
+    selectedRef.current = selected;
+  }, [selected]);
 
   // react-slick settings
   const settings = {
