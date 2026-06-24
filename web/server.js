@@ -26,6 +26,9 @@ const contentDir = process.env.CONTENT_DIR || path.join(workspaceRoot, "content"
 const mediaDir =
   process.env.MEDIA_DIR ||
   path.join(contentDir, "media");
+const sourcePublicDir =
+  process.env.PUBLIC_DIR ||
+  path.join(workspaceRoot, "web", "public");
 const mediaCacheSeconds = Number(process.env.MEDIA_CACHE_SECONDS || 2592000);
 
 const app = next({ dev, hostname, port, dir: appDir });
@@ -286,6 +289,35 @@ function attachContentServer(expressApp) {
   ensureContentDirs();
 
   expressApp.use(express.json({ limit: "10mb" }));
+  if (fs.existsSync(sourcePublicDir)) {
+    const publicRoutes = [
+      "Martha",
+      "PIP",
+      "audio",
+      "flowImg",
+      "font",
+      "icon",
+      "idle",
+      "reStage",
+      "videoThumb",
+    ];
+
+    for (const route of publicRoutes) {
+      expressApp.use(
+        `/${route}`,
+        express.static(path.join(sourcePublicDir, route), {
+          acceptRanges: true,
+          etag: true,
+          lastModified: true,
+          maxAge: "0s",
+          setHeaders: (res) => {
+            res.setHeader("Cache-Control", "public, max-age=0, must-revalidate");
+          },
+        }),
+      );
+    }
+  }
+
   expressApp.use(
     "/media",
     express.static(mediaDir, {
@@ -413,7 +445,13 @@ app.prepare().then(() => {
   attachContentServer(expressApp);
 
   const httpServer = createServer((req, res) => {
-    if (req.url?.startsWith("/media") || req.url?.startsWith("/api/")) {
+    const publicRoutePattern = /^\/(Martha|PIP|audio|flowImg|font|icon|idle|reStage|videoThumb)(\/|$)/;
+
+    if (
+      req.url?.startsWith("/media") ||
+      req.url?.startsWith("/api/") ||
+      publicRoutePattern.test(req.url || "")
+    ) {
       expressApp(req, res);
       return;
     }
@@ -428,6 +466,7 @@ app.prepare().then(() => {
     console.log(`Next app dir: ${appDir}`);
     console.log(`Content dir: ${contentDir}`);
     console.log(`Media dir: ${mediaDir}`);
+    console.log(`Public dir: ${sourcePublicDir}`);
     console.log(`Admin writes: ${adminToken ? "token protected" : "open"}`);
   });
 });
