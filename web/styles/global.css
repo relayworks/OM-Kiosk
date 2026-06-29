@@ -1196,13 +1196,16 @@ body {
   display: flex;
   flex-direction: row;
   align-items: center;
-  bottom: 0;
+  bottom: 25px;
+  transform: translate(-50%, 0);
+  position: fixed;
+  left: 50%;
   margin: -3px 0px 0px 0px;
-  gap: 22px;
+  gap: 10px;
   width: 100%;
   font-weight: 700;
-  font-size: 29px;
-  height: 94px;
+  font-size: 25px;
+  height: 25px;
   justify-content: center;
 }
 .time-info > div {
@@ -1252,8 +1255,10 @@ div.ctrl {
 }
 .ctrl.listBtn {
   background-image: url("/icon/list.svg");
-
   margin: -3px 0px 0px 0px;
+  height: 40px;
+  background-size: contain;
+  width: 40px;
 }
 .ctrl.Play {
   background-image: url("/icon/play.svg");
