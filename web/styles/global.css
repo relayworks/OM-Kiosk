@@ -1196,7 +1196,7 @@ body {
   display: flex;
   flex-direction: row;
   align-items: center;
-  bottom: 25px;
+  bottom: 28px;
   transform: translate(-50%, 0);
   position: fixed;
   left: 50%;

@@ -256,7 +256,7 @@ console.log("VideoPlayer id:", id);
           justify-content: space-between;
           font-size: 25px;
           gap: 8px;
-          
+          display:none;
           filter: drop-shadow(5px 5px 20px rgba(0, 0, 0, 0.4));
           pointer-events: none; /* 클릭 이벤트 비활성화 */
         }
