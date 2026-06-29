@@ -3,7 +3,7 @@ import HTMLFlipBook from "react-pageflip";
 import { useState, useEffect, useRef } from "react";
 import { useRouter } from "next/navigation"; // Next.js의 useRouter 사용
 
-export default function Martha() {
+export default function Marthaflip() {
   const totalPages = 24; // 총 페이지 수
   const [currentPage, setCurrentPage] = useState(0); // 현재 페이지를 관리
   const [isTimerActive, setIsTimerActive] = useState(false); // 타이머 작동 여부
