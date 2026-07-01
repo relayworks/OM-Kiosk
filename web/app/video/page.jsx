@@ -33,7 +33,7 @@ export default function videoHome() {
         ))}
       </div>
       <div className="QRnav">
-        <header className="relative">
+        <header className="relative video-header">
           〈한국 오페라 첫 15년의 궤적 1948-1962〉 <br />
           {videoData?.title || "관람 후기 및 출연 소감"}{" "}
         </header>

@@ -129,6 +129,9 @@ header {
   top: 26px;
   padding: 25px;
 }
+header.video-header{
+  margin-bottom:0em;
+}
 .relative {
   position: relative;
   margin-bottom: 2em;
@@ -494,9 +497,19 @@ body {
   background-repeat: no-repeat;
 }
 .touch {
+  position:fixed;
+  bottom: 2em;
   display: flex;
+  flex-direction: row;
   align-items: center;
-  gap: 10px;
+  gap: 15px;
+  font-weight:500;
+  background-color:rgba(255,255,255,0.1);
+  padding:10px 20px;
+  border-radius:20px;
+  text-align:left;
+  font-size: 0.8em;
+  
 }
 .curtain_left {
   width: 10%;
@@ -1170,6 +1183,14 @@ body {
   flex-direction: column;
   align-items: stretch;
 }
+.QRnav .row h3 {
+
+  margin-bottom: 1em !important;
+
+}
+.QRnav header{
+  top:0px;
+}
 .row h3 {
   grid-column: 1/4;
   font-family: "graver";
@@ -1182,7 +1203,7 @@ body {
   justify-content: start;
 }
 .row div img {
-  height: 21vh;
+  height: 18vh;
   margin-bottom: 0.5em;
   border-radius: 20px;
 }
@@ -1213,10 +1234,12 @@ body {
   top: -40px;
 }
 .QRnav .row {
-  padding: 1em 1em 1.5em 1em;
+  padding: 0.5em 1em 1.5em 1em;
   text-align: center;
   font-weight: 700;
   border-top: solid 1px #828282;
+  width: calc(100% - 40px);
+    margin-left: 20px;
 }
 .row {
   display: grid;
